@@ -3,4 +3,4 @@
 
 ### R functions:
 
-- cap_var_names: changes the var anmes to include a capital letter a the beginning if possible.
+- __cap_var_names__: changes the var anmes to include a capital letter a the beginning if possible.
